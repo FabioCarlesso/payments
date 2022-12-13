@@ -12,7 +12,7 @@
 	<artifactId>payments</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>payments</name>
-	<description>Payments from alura food project.</description>
+	<description>Payments from alurafood project.</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
