@@ -1,4 +1,4 @@
-package com.fabiocarlesso.alurafood.payments;
+package com.fabiocarlesso.payments;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

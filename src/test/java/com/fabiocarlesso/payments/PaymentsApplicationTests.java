@@ -1,4 +1,4 @@
-package com.fabiocarlesso.alurafood.payments;
+package com.fabiocarlesso.payments;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
